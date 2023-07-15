@@ -1,0 +1,55 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+/*navbar */
+.navbar{
+    width: 1327px;
+    height: 83px;
+    left: 401px;
+    background: #191D20;
+}
+.inputfield{
+    background: #272A30;
+}
+.search-bar{
+    color: #878787;
+    width: 812px;
+    height: 46px;
+    top: 31px;
+    left: 426px;
+    background-color:#272A30 ;
+}
+.signup{
+    width: 176px;
+    height: 46px;
+    top: 20px;
+    left: 1261px;
+    background: #FF2424;
+    text-align: center;
+}
+.login{
+    width: 176px;
+    height: 46px;
+    top: 20px;
+    left: 1261px;
+    background: #FF2424;
+    text-align: center;
+}
+
+/*sidebar */
+.sidenav{
+    top: 0px;
+    background-color: #0c0e10;
+    border: 1px solid black;
+    width: 30%;
+    margin-left: 25px;
+    padding-left: 30px;
+    color: white;
+}
+
+.home{
+    width: 1284px;
+   height: 463px;
+   left: 426px;
+   border-radius: 30px;
+}
